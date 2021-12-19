@@ -1,0 +1,66 @@
+29.May 2018 06:15:14	RETR FtpPath to local ...	
+29.May 2018 06:15:14	file size : 81.5 MB	
+29.May 2018 06:15:16	Finish RETR FtpPath to local ...	
+29.May 2018 06:15:16	 Scp /home/big/ftplistener/ftproot/d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606.zip to service client.	
+29.May 2018 06:15:19	remove from local...	
+29.May 2018 06:15:19	get connection to unzip 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606.zip with pass : isc13960606	
+29.May 2018 06:15:29	nameing is|/home/hduser/ftpService/LASTBAL_0606|	
+29.May 2018 06:15:29	name is /home/hduser/ftpService/LASTBAL_0606	
+29.May 2018 06:15:29	newname is /home/hduser/ftpService/13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+29.May 2018 06:15:29	rename finish	
+29.May 2018 06:15:50	Done!	
+29.May 2018 06:15:50	closing socket	
+29.May 2018 06:15:50	write to db and tik	
+29.May 2018 06:15:50	Finish Scp file to remote.	
+29.May 2018 06:24:14	start to spark	
+29.May 2018 06:24:14	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+29.May 2018 06:24:14	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+29.May 2018 06:24:14	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+29.May 2018 08:56:16	start to spark	
+29.May 2018 08:56:16	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+29.May 2018 08:56:16	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+29.May 2018 08:56:16	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+30.May 2018 08:45:11	start to spark	
+30.May 2018 08:45:11	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+30.May 2018 08:45:11	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+30.May 2018 08:45:11	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+31.May 2018 08:45:11	start to spark	
+31.May 2018 08:45:11	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+31.May 2018 08:45:11	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+31.May 2018 08:45:11	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+01.Jun 2018 08:45:11	start to spark	
+01.Jun 2018 08:45:11	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+01.Jun 2018 08:45:11	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+01.Jun 2018 08:45:11	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+02.Jun 2018 08:45:11	start to spark	
+02.Jun 2018 08:45:11	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+02.Jun 2018 08:45:11	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+02.Jun 2018 08:45:11	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+03.Jun 2018 08:45:13	start to spark	
+03.Jun 2018 08:45:13	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+03.Jun 2018 08:45:13	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+03.Jun 2018 08:45:13	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+04.Jun 2018 08:45:11	start to spark	
+04.Jun 2018 08:45:11	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+04.Jun 2018 08:45:11	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+04.Jun 2018 08:45:11	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+05.Jun 2018 08:45:10	start to spark	
+05.Jun 2018 08:45:10	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+05.Jun 2018 08:45:10	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+05.Jun 2018 08:45:10	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+06.Jun 2018 08:45:09	start to spark	
+06.Jun 2018 08:45:09	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+06.Jun 2018 08:45:09	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+06.Jun 2018 08:45:09	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+07.Jun 2018 08:45:08	start to spark	
+07.Jun 2018 08:45:08	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+07.Jun 2018 08:45:08	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+07.Jun 2018 08:45:08	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+08.Jun 2018 08:45:07	start to spark	
+08.Jun 2018 08:45:07	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+08.Jun 2018 08:45:07	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+08.Jun 2018 08:45:07	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	
+09.Jun 2018 08:45:06	start to spark	
+09.Jun 2018 08:45:06	START RUNNER for 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp file.	
+09.Jun 2018 08:45:06	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/LASTBAL/data.pq	
+09.Jun 2018 08:45:06	file detect is : 13960606_d412c431-f986-4100-a99a-11696f968315_LASTBAL_0606_tmp	

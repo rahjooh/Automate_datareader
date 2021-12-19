@@ -1,0 +1,22 @@
+14.May 2018 07:45:48	RETR FtpPath to local ...	
+14.May 2018 07:45:48	file size : 149.8 MB	
+14.May 2018 07:45:50	Finish RETR FtpPath to local ...	
+14.May 2018 07:45:50	 Scp /home/big/ftplistener/ftproot/293fd2cb-2eb5-47b0-973a-a087a60166e9_ACTINFO_ACT2_0223.zip to service client.	
+14.May 2018 07:45:54	remove from local...	
+14.May 2018 07:45:54	get connection to unzip 13970223_293fd2cb-2eb5-47b0-973a-a087a60166e9_ACTINFO_ACT2_0223.zip with pass : isc13970223	
+14.May 2018 07:46:08	nameing is|/home/hduser/ftpService/ACTINFO_ACT2_0223|	
+14.May 2018 07:46:08	name is /home/hduser/ftpService/ACTINFO_ACT2_0223	
+14.May 2018 07:46:08	newname is /home/hduser/ftpService/13970223_293fd2cb-2eb5-47b0-973a-a087a60166e9_ACTINFO_ACT2_0223_tmp	
+14.May 2018 07:46:08	rename finish	
+14.May 2018 07:46:30	Done!	
+14.May 2018 07:46:30	closing socket	
+14.May 2018 07:46:30	write to db and tik	
+14.May 2018 07:46:30	Finish Scp file to remote.	
+14.May 2018 07:47:10	start to spark	
+14.May 2018 07:47:10	START RUNNER for 13970223_293fd2cb-2eb5-47b0-973a-a087a60166e9_ACTINFO_ACT2_0223_tmp file.	
+14.May 2018 07:47:10	path detect is : hdfs://10.100.136.60:9000/user/hduser/parquet/ACTINFO/data.pq	
+14.May 2018 07:47:10	file detect is : 13970223_293fd2cb-2eb5-47b0-973a-a087a60166e9_ACTINFO_ACT2_0223_tmp	
+14.May 2018 07:47:10	append data of 13970223 to parquet DATA.	
+14.May 2018 07:47:10	lit finish	
+14.May 2018 07:47:17	parquet finish	
+14.May 2018 07:47:19	out of rename : 	
